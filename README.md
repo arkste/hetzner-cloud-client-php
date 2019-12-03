@@ -1,3 +1,8 @@
+# This Project has been archived.
+
+Please use https://github.com/LKDevelopment/hetzner-cloud-php-sdk instead!
+
+
 A PHP wrapper to be used with [Hetzner Cloud API](https://docs.hetzner.cloud).
 ==============
 
